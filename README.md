@@ -5,3 +5,4 @@ Rewritten from scratch from the java project. This is for my Python Course in Un
 I presented this project with my group members.
 
 It doesn't have as many features as the java version, but it does use a better file processing method.
+And it uses way less lines. (Thanks Python!)
